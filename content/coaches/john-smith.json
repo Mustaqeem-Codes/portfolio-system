@@ -1,0 +1,18 @@
+{
+  "slug": "john-smith",
+  "name": "John Smith",
+  "role": "Head Coach",
+  "club": "FC Example",
+  "tagline": "Elevating the modern game.",
+  "theme": {
+    "preset": "navy-blue",
+    "background": "#F7F8FA",
+    "text": "#0B1F3A",
+    "accent": "#1F6FEB"
+  },
+  "hero": {
+    "frameCountDesktop": 192,
+    "frameCountMobile": 80,
+    "beats": []
+  }
+}
